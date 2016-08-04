@@ -47,3 +47,9 @@ h2.two {
 .col-md-10.last h2 {
   background-color: #e1c1f0;
 }
+
+.welc1{
+  color: blue;
+  float: right;
+  padding-top: 20px;
+}
